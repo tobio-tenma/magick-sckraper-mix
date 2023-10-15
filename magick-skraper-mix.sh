@@ -1,5 +1,9 @@
+#!/bin/sh
+
+# NOT TESTED YET: Use at your own risk
+
 # background prep
-magick .\background.png -resize 333x480^ -gravity center -extent 333x480 background_resized.png
+magick background.png -resize 333x480^ -gravity center -extent 333x480 background_resized.png
 
 # gradient prep
 magick gradient.png -resize 333x240! gradient_resized.png
