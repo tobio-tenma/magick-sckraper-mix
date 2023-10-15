@@ -4,7 +4,7 @@
 
 Recreated the fantastic [Mix](https://github.com/ebzero/garlic-onion-skraper-mix) for [Skraper](https://www.skraper.net/) created by [ebzero](https://github.com/ebzero) so that it could be called from the command line. This opens up the possibility to generate the media straght from your device. Perfect for when you augment your collection with a few games.
 
-### Sample
+### Sample of Script Output
 
 Below is a comparison betwen the two scraped media generation methods:
 
