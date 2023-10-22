@@ -12,6 +12,8 @@ Below is a comparison between the two scraped media generation methods:
 |:-------------------------------------:|:-------------------------------------:|
 |![Generated Using Skraper](images/generated-using-skraper.png "Generated Using Skraper")|![Generated with ImageMagick](images/generated-using-imagemagick.png "Generated with ImageMagick")
 
+Note: The ImageMagic sample was generated from lower resolution media which is why it appears a little blury. It is assured that it produces the same high quality output as Skraper and this will be updated when time permits.
+
 ### Running the Script
 
 1. Open a terminal window to the location of this project and execute the following: `./magick-skraper-mix.ps1`
